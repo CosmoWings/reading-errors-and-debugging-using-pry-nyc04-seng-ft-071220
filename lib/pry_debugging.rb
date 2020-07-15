@@ -7,3 +7,5 @@ def plus_two(num)
 	puts"we're done with pry"
 	num
 end
+
+plus_two(5)
